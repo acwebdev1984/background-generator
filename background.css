@@ -1,0 +1,58 @@
+body{
+
+	background: linear-gradient(to right, #9A0057, #EA4EA6);
+}
+h1{
+
+	font-family: 'Monoton', cursive;
+	font-size: 8vw;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px #020202;
+}
+
+h2{
+	font-family: 'Julius Sans One', sans-serif;
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 3vw;
+	text-shadow: 2px 2px #020202;
+}
+
+h3{
+	font-family: 'Nanum Gothic', sans-serif;
+	text-transform: lowercase;
+	color: white;
+	text-align: center;
+	font-size: 2vw;
+
+}
+
+p{
+	font-family: 'Julius Sans One', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 3vw;
+
+}
+
+.colorinput{
+
+	display: flex;
+	justify-content: center;
+}	
+
+input{
+
+	margin:	20px;
+
+}
+
+button{
+	background-color: white;
+	font-family: 'Julius Sans One', sans-serif;
+	max-height: 50px;
+	max-width: 80px;
+
+}
